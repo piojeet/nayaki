@@ -12,9 +12,9 @@ function Nav() {
             </div>
 
             <div className='absolute left-1/2 transform -translate-x-1/2 text-5xl font-bold flex items-center gap-2 font-TanNimbus'>
-                {/* <span className='text-secondary'>Infinity</span> */}
+                <span className='text-secondary'>Infinity</span>
                 <span><img src={Logo} alt="logo" className='w-[70px]' /></span>
-                {/* <span className='text-secondary'>Beyond</span> */}
+                <span className='text-secondary'>Beyond</span>
             </div>
         </div>
     </div>

@@ -29,3 +29,24 @@
   font-weight: 400;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'DMSans-Medium';
+  src: url('./assets/fonts/DMSans-Medium-BF64376d329a539.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DMSans-Bold';
+  src: url('./assets/fonts/DMSans-Bold-BF64376d32191f2.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Degular-Semibold';
+  src: url('./assets/fonts/Degular-Semibold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
