@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'TAN-NIMBUS';
+  src: url('./assets/fonts/TAN-NIMBUS.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Instrumentserif-italic';
+  src: url('./assets/fonts/instrumentserif-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Instrumentserif-regular';
+  src: url('./assets/fonts/instrumentserif-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DMSans-Regular';
+  src: url('./assets/fonts/DMSans-Regular-BF64376d323f095.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}

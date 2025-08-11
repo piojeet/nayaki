@@ -13,6 +13,12 @@ export default {
         dark: '#1A1A1D', // gray-900
         light: '#FFF8F1', // gray-100
       },
+      fontFamily: {
+        TanNimbus: ['TAN-NIMBUS', 'sans-serif'],
+        InstrumentserifItalic: ['Instrumentserif-italic', 'serif'],
+        InstrumentserifRegular: ['Instrumentserif-regular', 'serif'],
+        DMSansRegular: ['DMSans-Regular', 'serif'],
+      },
     },
   },
   plugins: [],
