@@ -34,7 +34,7 @@ function SimpleSetup() {
                     </div>
                 </div>
 
-                <div className='flex items-center relative gap-[9vw] font-DMSansRegular'>
+                <div className='flex items-center relative gap-[15rem] font-DMSansRegular'>
                     <div>
                         <h3 className="text-5xl text-light mb-8 font-DMSansMedium font-medium">Key Benefits</h3>
                         <p className="font-DMSansBold text-light/80 list-disc leading-[2.2]">
