@@ -21,6 +21,7 @@ export default {
         DMSansMedium: ['DMSans-Medium', 'serif'],
         DMSansBold: ['DMSans-Bold', 'serif'],
         DegularSemibold: ['Degular-Semibold', 'serif'],
+        IndieFlower: ['Indie-Flower', 'serif'],
       },
       boxShadow: {
         'inner-white': 'inset 0 -4px 6px rgba(255, 255, 255, 0.1)',

@@ -50,3 +50,10 @@
   font-weight: 700;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Indie-Flower';
+  src: url('./assets/fonts/indie-flower.regular.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
