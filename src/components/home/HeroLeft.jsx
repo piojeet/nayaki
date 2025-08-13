@@ -6,7 +6,7 @@ function HeroLeft() {
   return (
     <div>
       <div className='max-w-[1440px] mx-auto flex flex-col md:flex-row items-center justify-between p-4 md:px-8'>
-        <div className='w-1/2 h-[40vh]'>
+        <div className='w-1/2 h-[500px]'>
           <Spline scene="https://prod.spline.design/i56Sll5KbkCWmTPy/scene.splinecode" />
         </div>
         <HeroRight />

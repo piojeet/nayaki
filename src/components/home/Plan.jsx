@@ -9,7 +9,7 @@ function Plan() {
             <div className='max-w-[1440px] w-full mx-auto p-4 md:px-8 py-20'>
                 <h2 className='bg-gradient-to-b from-[#FFFFFF] to-[#000000] bg-clip-text text-transparent text-[60px] font-DegularSemibold text-center'>Subscription Plans</h2>
 
-                <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mt-10'>
+                <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mt-10 max-w-[1000px] mx-auto'>
                     <div className='bg-[#070707] border border-[#313131] rounded-2xl p-8'>
                         <div className='font-DMSansRegular bg-light py-1 px-3 text-primary w-fit rounded-md'>Single User</div>
                         <div className='font-DMSansBold text-light flex mt-8'><span className='text-2xl font-DMSansRegular'>$</span> <span className='text-5xl'>50</span></div>
